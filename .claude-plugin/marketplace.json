@@ -35,7 +35,7 @@
       "category": "productivity",
       "strict": false,
       "mcpServers": {
-        "clix": {
+        "clix-mcp-server": {
           "command": "npx",
           "args": ["-y", "@clix-so/clix-mcp-server@latest"]
         }
